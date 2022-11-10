@@ -1,0 +1,45 @@
+/* 
+identify
+    name
+id
+    #name
+class
+    .name
+*/
+
+/* model box */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* inheritance -> inherit */
+
+/*  Adjacent Siblings (combinators) */
+
+/* h2 + p {
+    color: rgb(255, 0, 0);
+} */
+
+/* General Sibling */
+
+/* h2 ~ p {
+    color: rgb(255, 0, 0);
+} */
+
+/* Hijo y Descendiente */
+
+/* div > p {
+    color: rgb(255, 0, 0);
+} */
+
+/* rem */
+/* 
+html {
+    font-size: 62.5%;
+}
+p {
+    font-size: 1.6rem;
+} */
